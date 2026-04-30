@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8K63WDVLDT.club.saatva.palmai",
+        "paths": ["/app/*", "/share/*", "NOT /privacy", "NOT /terms", "NOT /support"]
+      }
+    ]
+  }
+}
